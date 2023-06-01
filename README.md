@@ -31,4 +31,4 @@ Sou desenvolvedor 💙 apaixonado por JavaScript, React, Html, Css e 🌱 estou 
  
 </div>
 
-![GitHub Snake dark]
+
