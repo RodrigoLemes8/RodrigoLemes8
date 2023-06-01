@@ -14,8 +14,8 @@ Sou desenvolvedor 💙 apaixonado por JavaScript, React, Html, Css e 🌱 estou 
 <center>
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RodrigoLemes8&theme=dark&show_icons=true&count_private=true" /></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLemes8&layout=compact&theme=dark" /></td>
+    <td><img width="380em" align="left" src="https://github-readme-stats.vercel.app/api?username=RodrigoLemes8&theme=dark&show_icons=true&count_private=true" /></td>
+    <td><img width="380em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLemes8&layout=compact&theme=dark" /></td>
   </tr>  
 </table>
 </center>
