@@ -10,7 +10,7 @@ Rodrigo Lemes 👾
 
 Sou desenvolvedor 💙 apaixonado por JavaScript, React, Html, Css e 🌱 estou aprendendo TypeScpript e React
 
-
+## ⚙️ GitHub Analytics
 <center>
 <table>
   <tr>
@@ -20,6 +20,7 @@ Sou desenvolvedor 💙 apaixonado por JavaScript, React, Html, Css e 🌱 estou 
 </table>
 </center>
 
+## 🛠 Principais tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="RD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RD-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
