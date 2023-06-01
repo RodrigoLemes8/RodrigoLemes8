@@ -8,7 +8,7 @@
 
 ### Hellooo! 👋 Bem-vindo ao meu Perfil!
 
-Sou desenvolvedor, 🌱 Estudante de Análise e Desenvolvimento de Sistemas 💙 apaixonado por JavaScript, React, Html, Css e 🌱 estou aprendendo TypeScpript e React.
+Sou desenvolvedor, 🌱 Estudante de Análise e Desenvolvimento de Sistemas 💙 apaixonado por JavaScript, React, Html, Css 🌱 e estou aprendendo TypeScpript e React.
 
 ## ⚙️ GitHub Analytics
 <center>
