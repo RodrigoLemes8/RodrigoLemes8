@@ -11,14 +11,16 @@
 Sou desenvolvedor, 🌱 Estudante de Análise e Desenvolvimento de Sistemas 💙 apaixonado por JavaScript, React, Html, Css 🌱 e estou aprendendo TypeScpript e React.
 
 ## ⚙️ GitHub Analytics
-<center>
-<table>
-  <tr>
-    <td><img width="380em" align="left" src="https://github-readme-stats.vercel.app/api?username=RodrigoLemes8&theme=dark&show_icons=true&count_private=true" /></td>
-    <td><img width="380em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLemes8&layout=compact&theme=dark" /></td>
-  </tr>  
-</table>
-</center>
+
+<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
+    <a href="https://u8views.com/github/RodrigoLemes8"><img src="https://u8views.com/api/v1/github/profiles/109054862/views/day-week-month-total-count.svg"></a>
+    <div align ="center" style="display: flex;">
+        <a href="https://github.com/RodrigoLemes8">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLemes8&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLemes8&layout=compact&langs_count=7&theme=algolia"/>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoLemes8&theme=algolia" alt="RodrigoLemes8" /></p>
+    </div>
+</div>
 
 ## 🛠 Principais tecnologias
 <div style="display: inline_block"><br>
